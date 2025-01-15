@@ -1,6 +1,8 @@
 # Heyyo 👋
 
-Welcome to my GitHub! I'm a **Software Engineering student** who’s **obsessed with learning**, **solving tricky problems**, and **EVERYTHING..?**. **Well, here’s a few things about me** 🚀
+Welcome to my GitHub! I'm a **Software Engineering student** who’s **obsessed with learning**, **solving tricky problems**, and **EVERYTHING..?**
+
+**Well, here’s a few things about me** 🚀
 
 ---
 
@@ -8,7 +10,8 @@ Welcome to my GitHub! I'm a **Software Engineering student** who’s **obsessed 
 - 🎓 **Bachelor in Software Engineering**   
 - 💻 Passionate about **UI/UX design**, **full-stack development**, **cybersecurity**, **DevOps**, and **cloud technologies**.  
 - 🛠️ Currently exploring **Application Control and Cybersecurity**, **BI/Data Analytics**, and **Agile methodologies**
-- 🌱 Always pushing myself to learn **new technologies**, refine my **coding skills**, and create **user-friendly software**. As well as trying to understand the **HCI theories** and focusing on applying them to practice!
+- 🌱 Always pushing myself to learn **new technologies**, refine my **coding skills**, and create **user-friendly software**.
+As well as trying to understand the **HCI theories** and focusing on applying them to practice!
 
 ---
 
