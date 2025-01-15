@@ -112,7 +112,8 @@ Welcome to my GitHub! I'm a **Software Engineering student** who’s **obsessed 
 
 Here are some stats to give you an insight into my GitHub activity:
 
-![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amelia1247&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amelia1247&show_icons=true&count_private=true&hide=prs&theme=dark)
+
 
 ---
 
