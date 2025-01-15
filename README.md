@@ -24,19 +24,15 @@ As well as trying to understand the **HCI theories** and focusing on applying th
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Java_logo.svg" alt="Java" title="Click to learn about Java" width="50" height="50"/>
   </a>
   <!-- C Icon with Link -->
-  <a href="https://commons.wikimedia.org/wiki/File:C_Language_Logo.svg" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_logo.svg" alt="C" title="Click to learn about C" width="50" height="50"/>
-  </a>
-  <!-- C# Icon with Link -->
-  <a href="https://commons.wikimedia.org/wiki/File:C-Sharp_Logo.svg" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/C-Sharp_Logo.svg" alt="C#" title="Click to learn about C#" width="50" height="50"/>
   </a>
   <!-- C++ Icon with Link -->
   <a href="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="Click to learn about C++" width="50" height="50"/>
   </a>
   <!-- TypeScript Icon with Link -->
-  <a href="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/TypeScript_Logo_2020.svg" alt="TypeScript" title="Click to learn about TypeScript" width="50" height="50"/>
   </a>
   <!-- PHP Icon with Link -->
@@ -44,11 +40,11 @@ As well as trying to understand the **HCI theories** and focusing on applying th
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" title="Click to learn about PHP" width="50" height="50"/>
   </a>
   <!-- HTML5 Icon with Link -->
-  <a href="https://commons.wikimedia.org/wiki/File:Devicon-html5-plain-wordmark.svg" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/HTML5_Logo_512px.png" alt="HTML5" title="Click to learn about HTML5" width="50" height="50"/>
   </a>
   <!-- CSS3 Icon with Link -->
-  <a href="https://commons.wikimedia.org/wiki/File:Ionicons_logo-css3.svg" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/CSS3" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" title="Click to learn about CSS3" width="50" height="50"/>
   </a>
 </div>
@@ -100,7 +96,7 @@ As well as trying to understand the **HCI theories** and focusing on applying th
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Adobe_Logo_2018.svg" alt="Adobe" title="Click to learn about Adobe" width="50" height="50"/>
   </a>
   <!-- Bootstrap Icon with Link -->
-  <a href="https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg" target="_blank">
+  <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo.svg" alt="Bootstrap" title="Click to learn about Bootstrap" width="50" height="50"/>
   </a>
   <!-- TailwindCSS Icon with Link -->
@@ -108,7 +104,6 @@ As well as trying to understand the **HCI theories** and focusing on applying th
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" title="Click to learn about TailwindCSS" width="50" height="50"/>
   </a>
 </div>
-
 ---
 <!-- adjsut later to display private contributions >
 ## 📈 GitHub Stats & Fun Metrics
