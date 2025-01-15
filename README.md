@@ -104,7 +104,7 @@ As well as trying to understand the **HCI theories** and focusing on applying th
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" title="Click to learn about TailwindCSS" width="50" height="50"/>
   </a>
 </div>
----
+
 <!-- adjsut later to display private contributions >
 ## 📈 GitHub Stats & Fun Metrics
 
