@@ -107,7 +107,7 @@ Welcome to my GitHub! I'm a **Software Engineering student** who’s **obsessed 
 </div>
 
 ---
-
+<!-- adjsut later to display private contributions >
 ## 📈 GitHub Stats & Fun Metrics
 
 Here are some stats to give you an insight into my GitHub activity:
@@ -115,7 +115,8 @@ Here are some stats to give you an insight into my GitHub activity:
 ![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amelia1247&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 
----
+--- 
+-->
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [Amal Guesmi](https://www.linkedin.com/in/amalgs1247)
