@@ -124,7 +124,7 @@ Here are some stats to give you an insight into my GitHub activity:
 -->
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [Amal Guesmi](https://www.linkedin.com/in/amalgs1247)
+- **LinkedIn**: [Amal Guesmi](https://www.linkedin.com/in/ameliags1247/)
 - **GitHub**: [@Amelia1247](https://github.com/Amelia1247)
 
  <p align="center">
