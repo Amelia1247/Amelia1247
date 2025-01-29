@@ -174,11 +174,17 @@ Here are some stats to give you an insight into my GitHub activity:
 
 --- 
 -->
+## 
+<p align="left">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDYyOW51OTNlcGhiaWowMXl2Njh5bnlua3JmZHVidjR4MmxlbG14cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TKcm1BG3v6DWaZnsQM/giphy.gif" alt="Watcha doing Sticker" width="120"/>
+  <img src="https://komarev.com/ghpvc/?username=Amelia1247&label=%F0%9F%91%80%20View%20%20%20&color=d2b48c&style=plastique" alt="Profile Views" width="140" />
+
+</p>
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [Amal Guesmi](https://www.linkedin.com/in/ameliags1247/)
 - **GitHub**: [@Amelia1247](https://github.com/Amelia1247)
 
  <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJkYzE3d282cWZ4amJidWs4Mms5MWx4cnZqdXh2djM3emxta3FmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wq4C2EBvCukUHNjNNm/giphy.gif" alt="Hey Yo Sticker" width="120"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJkYzE3d282cWZ4amJidWs4Mms5MWx4cnZqdXh2djM3emxta3FmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wq4C2EBvCukUHNjNNm/giphy.gif" alt="See Ya Sticker" width="120"/>
 </p>
