@@ -183,7 +183,7 @@ Here are some stats to give you an insight into my GitHub activity:
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [Amal Guesmi](https://www.linkedin.com/in/ameliags1247/)
-- **GitHub**: [@Amelia1247](https://github.com/Amelia1247)
+- **Portfolio**: Updating ⌛..
 
  <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJkYzE3d282cWZ4amJidWs4Mms5MWx4cnZqdXh2djM3emxta3FmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wq4C2EBvCukUHNjNNm/giphy.gif" alt="See Ya Sticker" width="120"/>
