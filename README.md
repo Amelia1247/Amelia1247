@@ -9,8 +9,6 @@ Welcome to my GitHub!
 **Well, here’s a few things about me** 
 ---
 
-## 🚀 About Me 
-
 - 🎓 **Bachelor in Software Engineering**   
 - 💻 Passionate about **UI/UX design**, **full-stack development**, **cybersecurity**, **DevOps**, and **Cloud technologies**.  
 - 🛠️ Currently exploring **Application Control and Cybersecurity**, **BI/Data Analytics**, and **Agile methodologies**
