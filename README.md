@@ -1,7 +1,7 @@
 # Heyyo 👋
 Welcome to my GitHub!
 
- I'm a **Software Engineering student** who’s **obsessed with learning**, **solving tricky problems**, and **EVERYTHING..?!** 🤔
+ I'm a **CS And Eng student** who’s **obsessed with learning**, **solving tricky problems**, and **EVERYTHING..?!** 🤔
  <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE1dHd1ZmRlcjdoYzZvMjkyM3h1cXN5ZmNxazB1aXlmN3Y3Nnh0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Plb5rBc6Be47sWspxV/giphy.gif" alt="Hey Yo Sticker" width="120"/>
 </p>
@@ -9,7 +9,7 @@ Welcome to my GitHub!
 **Well, here’s a few things about me** 
 ---
 
-- 🎓 **Bachelor in Software Engineering**   
+- 🎓 **MSc in Computer Science and Engineering**   
 - 💻 Passionate about **UI/UX design**, **full-stack development**, **cybersecurity**, **DevOps**, and **Cloud technologies**.  
 - 🛠️ Currently exploring **Application Control and Cybersecurity**, **BI/Data Analytics**, and **Agile methodologies**
 - 🌱 Always pushing myself to learn **new technologies**, refine my **coding skills**, and create **user-friendly software**.
